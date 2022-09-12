@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Vježbanje4\bin\Debug\Vježbanje4.exe.config
+C:\Users\ucenik\Documents\Vježbanje4\bin\Debug\Vježbanje4.exe
+C:\Users\ucenik\Documents\Vježbanje4\bin\Debug\Vježbanje4.pdb
+C:\Users\ucenik\Documents\Vježbanje4\obj\Debug\Vježbanje4.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Vježbanje4\obj\Debug\Vježbanje4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Vježbanje4\obj\Debug\Vježbanje4.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Vježbanje4\obj\Debug\Vježbanje4.exe
+C:\Users\ucenik\Documents\Vježbanje4\obj\Debug\Vježbanje4.pdb
